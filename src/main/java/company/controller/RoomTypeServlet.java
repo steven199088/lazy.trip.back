@@ -19,7 +19,7 @@ import company.service.RoomTypeService;
 @WebServlet("/roomtypeservlet") 
 public class RoomTypeServlet extends HttpServlet{
 
-
+// heloooooo
 		public void doGet(HttpServletRequest req, HttpServletResponse res) throws ServletException, IOException {
 			doPost(req, res);
 		}
